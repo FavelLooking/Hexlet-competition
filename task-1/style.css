@@ -1,0 +1,7 @@
+.timer-container {
+  display: flex;
+  justify-content: space-between;
+}
+#timers {
+  width: 40%;
+}
